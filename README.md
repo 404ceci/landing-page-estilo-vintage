@@ -4,8 +4,9 @@ Landing page para uma marca de moda (Vintage on You) desenvolvida do zero, desde
 
 - 🔗 Acesse o projeto: https://404ceci.github.io/landing-page-estilo-vintage/
 
-<img width="1913" height="941" alt="image" src="https://github.com/user-attachments/assets/716dd4b0-55c7-41ee-bd61-96febb47bafe" />
+<img width="1906" height="912" alt="image" src="https://github.com/user-attachments/assets/3714fc03-e423-4743-9508-b2c7ce526bab" />
 
+---
 
 ## ꒰💻꒱ Sobre o projeto
 
