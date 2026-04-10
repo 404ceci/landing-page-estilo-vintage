@@ -18,6 +18,8 @@ Posteriormente, o design foi convertido em código, garantindo fidelidade visual
 
 O foco do projeto foi criar uma experiência visual atrativa e funcional, simulando um cenário real de e-commerce.
 
+---
+
 ## ꒰💻꒱ Processo Criativo
 
 **1. 📝 Conceito**
@@ -42,6 +44,8 @@ A escolha das cores foi feita com base no conceito vintage:
 - Destaque para informações importantes.
 - Design focado na conversão.
 
+---
+
 ## ꒰🔄꒱ Alterações e Ajustes
 
 Durante o desenvolvimento, o projeto passou por diversas mudanças e melhorias. Cores, posições, alinhamentos.
@@ -55,12 +59,16 @@ Essas alterações foram feitas com foco em:
 
 Esse processo faz parte do fluxo real de desenvolvimento, onde o design evolui junto com o código.
 
+---
+
 ## ꒰📌꒱ Objetivos
 
 - Desenvolver uma interface moderna e alinhada ao segmento de moda;
 - Criar uma identidade visual coesa do zero;
 - Aplicar conceitos de UX/UI no layout;
 - Transformar um protótipo em um produto funcional (design → código).
+
+---
 
 ## ꒰⚙️꒱ Tecnologias utilizadas
 
@@ -69,6 +77,8 @@ Esse processo faz parte do fluxo real de desenvolvimento, onde o design evolui j
 - JavaScript.
 - Figma.
 - Conceitos de UX/UI.
+
+---
 
 ## ꒰📍꒱ Funcionalidades
 
